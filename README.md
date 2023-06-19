@@ -12,7 +12,7 @@
 
 - 🤝 I’m looking for help with **learning new coding languages, game development**
 
-- 📫 How to reach me **Discord: Zsombi#9991**
+- 📫 How to reach me **Discord: zsombi__**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
