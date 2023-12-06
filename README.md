@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/zsombihu" target="blank"><img src="https://img.shields.io/twitter/follow/zsombihu?logo=twitter&style=for-the-badge" alt="zsombihu" /></a> </p>
 
-- 🌱 I’m currently learning **Lua, html**
+- 🌱 I’m currently learning **Python**
 
 - 🤝 I’m looking for help with **learning new coding languages, game development**
 
