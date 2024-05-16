@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zsombiihun" alt="zsombiihun" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/zsombihu" target="blank"><img src="https://img.shields.io/twitter/follow/zsombihu?logo=twitter&style=for-the-badge" alt="zsombihu" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Zsombii_" target="blank"><img src="https://img.shields.io/twitter/follow/zsombihu?logo=twitter&style=for-the-badge" alt="zsombihu" /></a> </p>
 
 - 🌱 I’m currently learning **Python**
 
