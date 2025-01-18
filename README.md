@@ -1,32 +1,55 @@
-[![MasterHead](https://geekflare.com/wp-content/uploads/2022/10/Learn-Coding-in-a-Fun-Way-on-These-7-Platforms.jpeg)]()
-<h1 align="center">Hi 👋, I'm Zsombi</h1>
-<h3 align="center">A boy who tries to learn new coding languages</h3>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/gist/theAdityaNVS/f5b585d1082da2dffffea32434f37956/raw/7f9552d0a179b4f84059259fa878199e369b069c/GitHub-logo.gif" width="200" />
+  
+  # Hey there! I'm Zsombi 👋
+  ### Game Developer & Programming Guy
+  
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=zsombiihun&label=Visitors&color=571fff&style=flat" alt="Profile views" />
+  </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zsombiihun&label=Profile%20views&color=0e75b6&style=flat" alt="zsombiihun" /> </p>
+  <div style="display: flex; justify-content: center; gap: 10px; margin: 20px 0;">
+    <a href="https://twitter.com/Zsombii_">
+      <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter">
+    </a>
+    <a href="https://stackoverflow.com/users/21702781">
+      <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow">
+    </a>
+    <a href="https://dev.to/zsombiihun">
+      <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to">
+    </a>
+  </div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zsombiihun" alt="zsombiihun" /></a> </p>
+  ---
 
-<p align="left"> <a href="https://twitter.com/Zsombii_" target="blank"><img src="https://img.shields.io/twitter/follow/zsombihu?logo=twitter&style=for-the-badge" alt="zsombihu" /></a> </p>
+  ### 🎯 Current Focus
+  
+  <div style="margin: 20px 0;">
+    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
+  </div>
 
-- 🌱 I’m currently learning **Python**
+  ### 🛠️ Tools & Technologies I'm Learning
 
-- 🤝 I’m looking for help with **learning new coding languages, game development**
+  <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; margin: 20px 0;">
+    <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/>
+    <img src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Unreal Engine"/>
+    <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+    <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
+    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
+    <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  </div>
 
-- 📫 How to reach me **Discord: zsombi__**
+  ### 📊 GitHub Stats
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/zsombiihun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="zsombiihun" height="30" width="40" /></a>
-<a href="https://twitter.com/Zsombii_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zsombihu" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/21702781" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21702781" height="30" width="40" /></a>
-</p>
+  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=zsombiihun&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=zsombiihun&theme=tokyonight" alt="GitHub Streak" />
+  </div>
 
-<h3 align="left">Languages and Tools I want to Learn:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+  ### 📫 Let's Connect!
+  > Find me on Discord: **zsombi__**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zsombiihun&show_icons=true&locale=en&layout=compact" alt="zsombiihun" /></p>
+  ---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zsombiihun&show_icons=true&locale=en" alt="zsombiihun" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zsombiihun&" alt="zsombiihun" /></p>
-
+  <sub>🚀 Always learning, always growing!</sub>
+</div>
